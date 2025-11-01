@@ -67,7 +67,7 @@
 &kp GRAVE   &kp F1        &kp F2        &kp F3        &kp F4          &kp F5             &mmv MOVE_UP     &kp F6            &kp F7             &kp F8           &kp F9                &kp F10                &kp F11
 &trans      &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4    &kp NUMBER_5       &mmv MOVE_DOWN   &kp KP_NUMBER_6   &kp NUMBER_7       &kp KP_NUMBER_8  &kp NUMBER_9          &kp NUMBER_0           &kp F12
 &trans      &kp EXCL      &kp AT        &kp HASH      &kp DOLLAR      &kp PERCENT        &mmv MOVE_LEFT   &kp CARET         &kp AMPERSAND      &kp ASTRK        &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp PIPE
-&trans      &kp KP_EQUAL  &kp MINUS     &kp PLUS      &kp LEFT_BRACE  &kp RIGHT_BRACE    &mmv MOVE_RIGHT  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &trans           &trans                &trans                 &kp SLASH
+&trans      &kp KP_EQUAL  &kp MINUS     &kp PLUS      &kp LEFT_BRACE  &kp RIGHT_BRACE    &mmv MOVE_RIGHT  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &trans           &trans                &trans                 &kp BACKSLASH
 &kp C_MUTE  &trans        &trans        &trans        &trans          &trans             &mkp LCLK        &trans            &trans             &trans           &trans                &trans
             >;
 
