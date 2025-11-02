@@ -86,9 +86,9 @@ layers:
   - '4'
   - '5'
   - {t: '$$mdi:menu-down$$', s: '$$mdi:mouse$$'}
-  - KP 6
+  - '6'
   - '7'
-  - KP 8
+  - '8'
   - '9'
   - '0'
   - F12
@@ -106,7 +106,7 @@ layers:
   - )
   - '|'
   - {t: '$$mdi:transfer$$', type: trans}
-  - KP EQUAL
+  - {t: '=', s: +}
   - {t: '-', s: _}
   - +
   - '{'
